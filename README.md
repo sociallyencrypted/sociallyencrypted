@@ -10,7 +10,9 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about OSINT and Forensics
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/sociallyencrypted)
 - 😄 Pronouns: they/them or he/him, both work fine!
-- ⚡ Fun fact: I like polar bears!
+- 🐻‍❄ Fun fact: I like polar bears!
+
+[![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sociallyencrypted&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
