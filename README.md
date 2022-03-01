@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning Web App Penetration Testing
+- 🌱 I’m currently learning Machine Pwning
 - 🏫 I'm a first-year undergrad at IIITD
-- 💬 Ask me about OSINT and Forensics
+- 💬 Ask me about OSINT, Forensics, Cryptography and Web Exploitation
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/sociallyencrypted)
 - 🐻‍❄ Fun fact: I like polar bears!
 
