@@ -1,8 +1,8 @@
 ## ✨ Hi, I'm Mehul!
 
 - 🌱 I’m currently working at the Network Security Lab at IIIT Delhi.
-- 🏫 I'm a sophomore at IIIT Delhi.
-- 💬 Ask me about Networks, OSINT, Forensics, Cryptography and Web Exploitation.
+- 🏫 I'm a junior at IIIT Delhi.
+- 💬 Ask me about Networks, Infosec, OSINT, Forensics, and Web Exploitation.
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/sociallyencrypted).
 - 🐻‍❄ Fun fact: I like polar bears!
 
